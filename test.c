@@ -1,8 +1,8 @@
 #include<stdio.h>
-#include<studio.h>
 int main()
 {
 int a=20,b=30;
-print("The sum is %d",a+b);
+printf("The sum is %d",a+b);
+printf("\nThe sub is %d\n",b-a);
 return 0;
 }
