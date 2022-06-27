@@ -2,7 +2,7 @@
 int main()
 {
 int a =20,b=40;
-printf("SUm=%d",a*b);
+printf("Mul=%d",a*b);
 return 0;
 }
 
